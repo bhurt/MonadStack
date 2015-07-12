@@ -2,15 +2,15 @@
 -- documentation, see http://haskell.org/cabal/users-guide/
 
 name:                MonadStack
-version:             0.1.0.1
+version:             0.1.0.2
 synopsis:            Generalizing lift to monad stacks
--- description:         
+description:         A multi-level lift.
 homepage:            https://github.com/bhurt/MonadStack
 license:             BSD2
 license-file:        LICENSE
 author:              Brian Hurt
 maintainer:          bhurt42@gmail.com
--- copyright:           
+copyright:           Brian Hurt
 category:            Control
 build-type:          Simple
 extra-source-files:  README.md
